@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract SimpleStorage {
@@ -24,3 +25,6 @@ contract SimpleStorage {
         nameToFavNumber[name] = number;
     }
 }
+
+// Different testnets faucet
+// https://docs.chain.link/docs/link-token-contracts/
